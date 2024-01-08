@@ -1,5 +1,4 @@
 import Feed from "@components/Feed";
-import Nav from "@components/Nav";
 const Home = () => (
   <section className="flex-col w-full flex-center">
     <h1 className="text-center head_text">
